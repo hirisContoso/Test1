@@ -1,0 +1,14 @@
+Screen2 As screen:
+
+    Button4 As button:
+        Text: ="ボタン"
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+    Button5 As button:
+        Text: ="ボタン"
+        X: =40
+        Y: =142
+        ZIndex: =2
+
