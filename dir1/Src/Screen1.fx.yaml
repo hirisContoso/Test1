@@ -179,3 +179,9 @@ Screen1 As screen:
         Y: =68
         ZIndex: =4
 
+    Button3 As button:
+        Text: ="ボタン"
+        X: =1084
+        Y: =398
+        ZIndex: =5
+

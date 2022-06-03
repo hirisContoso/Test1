@@ -4,6 +4,7 @@
     "App": 1,
     "Button1": 8,
     "Button2": 7,
+    "Button3": 19,
     "DataCardKey1": 12,
     "DataCardKey2": 17,
     "DataCardValue1": 13,
@@ -21,10 +22,10 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "06/03/2022 09:50:06",
+  "HeaderLastSavedDateTimeUTC": "06/03/2022 10:14:40",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
-    "7f6240b0-8aaf-499f-86cf-6684b9582a9f": "\"/providers/microsoft.powerapps/apis/shared_excelonlinebusiness/connections/shared-excelonlinebu-9330fa77-988c-4e11-accc-4aa8083216e7\""
+    "7f6240b0-8aaf-499f-86cf-6684b9582a9f": "\"/providers/microsoft.powerapps/apis/shared_excelonlinebusiness/connections/016ceede45ed4482a70e32f541de3293\""
   },
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
@@ -47,6 +48,7 @@
     "App": 0,
     "Button1": 4,
     "Button2": 3,
+    "Button3": 0,
     "DataCardKey1": 8,
     "DataCardKey2": 13,
     "DataCardValue1": 9,
@@ -66,7 +68,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.2184406,
+    "AnalysisLoadTime": 0.1798415,
     "ControlCount": {
       "button": 2,
       "dataTable": 1,
@@ -77,7 +79,7 @@
       "text": 1,
       "typedDataCard": 2
     },
-    "DeserializationLoadTime": 1.4491688,
+    "DeserializationLoadTime": 0.8548828,
     "ErrorCount": 2
   },
   "WasLocalDatabaseReferencesEmpty": true
