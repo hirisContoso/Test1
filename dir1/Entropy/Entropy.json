@@ -4,6 +4,7 @@
     "App": 1,
     "Button1": 11,
     "Button2": 10,
+    "Button3": 22,
     "Button4": 4,
     "Button5": 5,
     "DataCardKey1": 15,
@@ -24,7 +25,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "06/03/2022 10:31:52",
+  "HeaderLastSavedDateTimeUTC": "06/03/2022 10:32:02",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "7f6240b0-8aaf-499f-86cf-6684b9582a9f": "\"/providers/microsoft.powerapps/apis/shared_excelonlinebusiness/connections/016ceede45ed4482a70e32f541de3293\""
@@ -50,6 +51,7 @@
     "App": 0,
     "Button1": 4,
     "Button2": 3,
+    "Button3": 0,
     "Button4": 15,
     "Button5": 16,
     "DataCardKey1": 8,
